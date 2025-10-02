@@ -2,7 +2,7 @@
   "name": "Aplikasi Keuangan",
   "short_name": "Keuangan",
   "description": "Aplikasi Keuangan sederhana untuk mencatat pemasukan dan pengeluaran.",
-  "start_url": "uang.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#003366",
@@ -20,3 +20,4 @@
     }
   ],
 }
+

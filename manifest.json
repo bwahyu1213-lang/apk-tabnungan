@@ -6,8 +6,7 @@
   "background_color": "#ffffff",
   "theme_color": "#4facfe",
   "orientation": "portrait",
-  "scope": ".",
-  "id": "com.tabungan.app",
+  "id": "com.putra.keuanganapp",
   "icons": [
     {
       "src": "icon-192.png",
@@ -21,6 +20,7 @@
     }
   ]
 }
+
 
 
 

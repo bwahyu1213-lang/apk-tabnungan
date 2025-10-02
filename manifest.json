@@ -1,10 +1,12 @@
 {
   "name": "Aplikasi Keuangan",
   "short_name": "Keuangan",
+  "description": "Aplikasi Keuangan sederhana untuk mencatat tabungan dan pengeluaran.",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#4facfe",
+  "theme_color": "#003366",
+  "orientation": "portrait",
   "icons": [
     {
       "src": "icon-192.png",

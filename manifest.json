@@ -1,13 +1,13 @@
 {
-  "name": "Keuangan",
+  "name": "Aplikasi Keuangan",
   "short_name": "Keuangan",
-  "description": "Aplikasi sederhana untuk mencatat pemasukan dan pengeluaran.",
-  "start_url": "index.html",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#003366",
+  "theme_color": "#4facfe",
   "orientation": "portrait",
-  "id": "io.github.bwahyu1213_lang.twa",
+  "scope": ".",
+  "id": "com.tabungan.app",
   "icons": [
     {
       "src": "icon-192.png",
@@ -21,4 +21,6 @@
     }
   ]
 }
+
+
 

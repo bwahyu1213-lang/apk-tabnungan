@@ -1,7 +1,7 @@
 {
   "name": "Aplikasi Keuangan",
   "short_name": "Keuangan",
-  "start_url": ".",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4facfe",
@@ -21,6 +21,7 @@
     }
   ]
 }
+
 
 
 

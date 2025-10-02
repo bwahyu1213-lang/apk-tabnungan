@@ -6,7 +6,7 @@
   "background_color": "#ffffff",
   "theme_color": "#4facfe",
   "orientation": "portrait",
-  "id": "com.putra.keuanganapp",
+  "id": "com.putra.keuangan",
   "icons": [
     {
       "src": "icon-192.png",
@@ -20,6 +20,7 @@
     }
   ]
 }
+
 
 
 

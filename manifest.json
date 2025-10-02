@@ -1,15 +1,13 @@
 {
   "name": "Aplikasi Keuangan",
   "short_name": "Keuangan",
-  "description": "Aplikasi Keuangan sederhana untuk mencatat tabungan dan pengeluaran.",
-  "start_url": "index.html",
+  "description": "Aplikasi Keuangan sederhana untuk mencatat pemasukan dan pengeluaran.",
+  "start_url": "uang.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#003366",
   "orientation": "portrait",
-  "icons":,
-  "description": "Aplikasi Keuangan sederhana untuk mencatat pemasukan dan pengeluaran.",
-  [
+  "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
@@ -20,6 +18,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
 }
-

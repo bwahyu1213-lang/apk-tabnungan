@@ -1,5 +1,5 @@
 {
-  "name": "Aplikasi Keuangan",
+  "name": "Keuangan",
   "short_name": "Keuangan",
   "description": "Aplikasi sederhana untuk mencatat pemasukan dan pengeluaran.",
   "start_url": "index.html",
@@ -7,6 +7,7 @@
   "background_color": "#ffffff",
   "theme_color": "#003366",
   "orientation": "portrait",
+  "id": "io.github.bwahyu1213_lang.twa",
   "icons": [
     {
       "src": "icon-192.png",
@@ -20,3 +21,4 @@
     }
   ]
 }
+
